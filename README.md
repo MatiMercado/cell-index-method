@@ -31,3 +31,8 @@ Current value is:
 From the PROJECT_FOLDER/resources/bin folder, run
 
     $ ./analyser.sh 20 0.25 1 1 13 false 50
+    
+## Authors
+* Gonzalo Ibars
+* Matias Comercio
+* Matias Mercado
